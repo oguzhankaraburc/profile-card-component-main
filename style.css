@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+body{
+    background-color: hsl(185, 75%, 39%);
+     
+    
+}
+.container{
+
+    border: 0 solid;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -200px;
+    background-color:#fff;
+}
+
+
+
+img{
+    width: 400px;
+    border-radius: 20px 20px 0px 0px;
+
+}
+
+.boy{
+    width: 100px;
+    position: absolute;
+    top: 109px;
+    left: 149px;
+    border: 5px solid #fff;
+    border-radius: 50px;
+}
+
+h1{
+    position: absolute;
+    top: 220px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    left: 127px;
+    padding: 10px;
+    color: hsl(229, 23%, 23%);
+    
+}
+p{
+    position: absolute;
+    top: 230px;
+    left: 250px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    color:hsl(0, 0%, 59%);
+
+}
+
+.city{
+    position: absolute;
+    top: 264px;
+    left: 170px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+hr{
+    position: relative;
+    top: 150px;
+    color: hsl(0, 0%, 59%);
+}
+
+.followers{
+    position: relative;
+    top: 175px;
+    left: 70px;
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(229, 23%, 23%);
+    font-weight: 900;
+    font-size: 19px;
+    word-spacing: 70px;
+}
+
+.cntnt{
+    position: relative;
+    
+    top: 178px;
+    left: 55px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    color:hsl(0, 0%, 59%);
+    font-size: 12px;
+    word-spacing: 74px;
+    letter-spacing: 0.9px;
+}
